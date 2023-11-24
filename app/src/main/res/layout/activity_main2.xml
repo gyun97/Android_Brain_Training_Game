@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gpmobile1"
+    tools:context=".MainActivity2">
+
+
+
+
+
+    <Button
+        android:id="@+id/button11111"
+        android:background="#00ff0000"
+        android:layout_width="170dp"
+        android:layout_height="40dp"
+        android:layout_x="75dp"
+        android:layout_y="375dp"
+        />
+
+
+</AbsoluteLayout>
